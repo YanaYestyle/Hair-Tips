@@ -1,1 +1,1 @@
-# Hairdresser-s-tips
+https://hairdresser-tips.netlify.app/
